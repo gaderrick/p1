@@ -1,10 +1,10 @@
 # Project 1
-+ By: *your first and last name*
-+ Production URL: <http://p1.yourdomain.com>
++ By: Gerald Derrick
++ Production URL: <http://p1.gaderrick.me>
 
 ## Outside resources
-*your list of outside resources go here*
++ CSS Help: <https://www.w3schools.com/css/css_align.asp>
++ PHP Help: <http://php.net/manual/en/function.explode.php>
++ HTML Help: <https://www.w3schools.com/charsets/ref_utf_punctuation.asp>
 
-
-## Notes for instructor
-*any notes for me to refer to while grading; if none, omit this section*
++ Quotes: <http://www.azquotes.com/>

@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container{
+	text-align: center;
+	margin: auto;
+}
+
+.aboutme {
+	background-color: grey; 
+	border-radius: 25px;
+	word-wrap: normal; 
+	width: 70%;
+	text-align:inherit;
+	margin: inherit;
+}
+
+.mypic {
+	width: 30%;
+}
+
+.quotes {
+	background-color: darkgoldenrod; 
+	word-wrap: normal; 
+	width: 70%;
+	text-align: left;
+	margin: inherit;
+}
